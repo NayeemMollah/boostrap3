@@ -1,0 +1,161 @@
+/* all common css start*/
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+/* all common css end*/
+
+/* header part start  */
+
+.nav-link{
+    font-family: "Open Sans", serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #29313D;
+}
+.containerbtn{
+    padding: 20px 30px;
+    border-radius: 18px;
+    background-color: #8454f5;
+    color: #ffffff;
+    font-family: "Nunito", serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+/* header part end */
+/* banner part start */
+.bannerpart{
+  padding-top: 100px;
+    background-image: url(../images/received_1157596866072415.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.bannertaxt h1{
+    font-size: 64px;
+    font-family: "Open Sans", serif;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.bannertaxt p{
+
+padding-bottom: 50px;
+font-size: 18px;
+font-family: "Nunito", serif;
+font-weight: 400;
+}
+/* banner part end */
+
+.commontext{
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 70px;
+}
+.commontext h3{
+    font-size: 48px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+   padding-top: 110px;
+}
+
+
+.servicespart{
+    padding-bottom: 100px;
+}
+.amar{
+    padding-top: 30px;
+    padding-left: 20px;
+    
+}
+.amar:hover{
+    -webkit-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+}
+.amar h3{
+    padding-top: 30px;
+    font-size: 28px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    color: #29313D;
+}
+.amar p{
+    font-size: 17px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    line-height: 150%;
+    padding-top: 20px;
+    color: #29313D;
+}
+.amar a{
+    font-size: 16px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #29313D;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* end */
+.innovatepart{
+    padding-top: 100px;
+}
+.launch img{
+    width: 540px;
+    height: 644px;
+}
+.innovatepartt{
+    display: flex;
+}
+.launchh h3{
+    font-size: 40px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #29313D;
+   padding-top: 80px;
+   padding-bottom: 35px;
+}
+.launchh p{
+    font-size: 23px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.innova h3{
+    font-size: 19px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #29313D;
+    
+}
+.innova p{
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 200%;
+    color: #29313D;
+   
+}
+.innova a{
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #29313D;
+    
+}
+.innovaterr{
+    display: flex;
+}
